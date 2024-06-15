@@ -1,2 +1,2 @@
 # CS-1210_Final
-This is the final project of my CS 1210: Fundamentals class at the University of Iowa. This project was focused on creating a machine learning model to predict movie ratings based on user history.
+This is the final project of my CS 1210: Fundamentals class at the University of Iowa. This project was focused on creating a machine-learning model to predict movie ratings based on user history. I include this as it was one of my favorite projects during my time at the University of Iowa due to its challenging nature and level of interest in machine learning at the time. Due to time constraints, the final part of the project was left unfinished by the professor.
